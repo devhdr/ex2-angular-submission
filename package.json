@@ -1,0 +1,10 @@
+{
+  "name": "ExampleMEANApp",
+  "version": "1.0.0",
+  "description": "sample angualarjs app",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devhdr/ex2-angular-submission.git"
+  },
+}
